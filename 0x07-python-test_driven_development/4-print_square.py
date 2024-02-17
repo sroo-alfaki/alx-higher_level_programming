@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Module for print_square method."""
 
 def print_square(size):
     if not isinstance(size, int):
